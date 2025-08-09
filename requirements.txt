@@ -1,0 +1,6 @@
+docx
+numpy
+openai
+pandas
+pypdf
+streamlit
